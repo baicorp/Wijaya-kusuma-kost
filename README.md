@@ -1,34 +1,13 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Wijaya Kusuma Kost
 
-## Getting Started
+#nextjs #tailwindcss #supabase
 
-First, run the development server:
+## Deskripsi Project
+Proyek ini merupakan sistem pengelolaan kost yang saya kembangkan menggunakan Next.js sebagai framework frontend dan Supabase sebagai layanan autentikasi dan database. Sistem ini mencakup website dengan CMS admin yang memungkinkan admin untuk mengatur konten yang ditampilkan di website, baik untuk pengguna umum maupun pengguna yang memiliki akun kost.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
-
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
-
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
-
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Tampilan Project
+![Screenshot (326)](https://github.com/baicorp/Wijaya-kusuma-kost/assets/79925391/037f414f-98f4-42d5-8c78-cb94f1680994)
+![Screenshot (334)](https://github.com/baicorp/Wijaya-kusuma-kost/assets/79925391/2b751e91-17be-45b3-b289-228c03d94348)
+![Screenshot (333)](https://github.com/baicorp/Wijaya-kusuma-kost/assets/79925391/063f744e-b4a4-40b3-8943-e4c95560b7fb)
+![Screenshot (332)](https://github.com/baicorp/Wijaya-kusuma-kost/assets/79925391/feb7b200-3833-469b-abf5-16b0368043e8)
+![Screenshot (335)](https://github.com/baicorp/Wijaya-kusuma-kost/assets/79925391/b825d3ec-eac1-4f5e-b5d0-768fb76e83f7)
